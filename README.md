@@ -4,7 +4,7 @@ Python, Pandas, SQL were used for the Extract-Transform-Load process to generate
 
 ## Resources
 The main database resources are:
-* MovieLens movie ratins (ratings.csv)
+* MovieLens movie ratings (ratings.csv)
 * Wikipedia movie data as JSON (wikipedia-movies.json)
 * Kaggle movies metadata (movies metadata.csv)
 
